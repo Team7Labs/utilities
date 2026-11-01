@@ -1,3 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z" fill="none" stroke="#2563EB" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="220" viewBox="0 0 180 220" role="img" aria-labelledby="utilities-title utilities-desc">
+  <title id="utilities-title">Utilities</title>
+  <desc id="utilities-desc">Blue gear and wrench utilities logo.</desc>
+  <g transform="translate(90 110)">
+    <g fill="#378ADD">
+      <rect x="-12" y="-76" width="24" height="152" rx="6"/>
+      <rect x="-12" y="-76" width="24" height="152" rx="6" transform="rotate(45)"/>
+      <rect x="-12" y="-76" width="24" height="152" rx="6" transform="rotate(90)"/>
+      <rect x="-12" y="-76" width="24" height="152" rx="6" transform="rotate(135)"/>
+      <circle r="62"/>
+    </g>
+    <circle r="44" fill="#185FA5"/>
+    <circle r="36" fill="#0C447C"/>
+    <path d="M17-31 A24 24 0 0 0-14 0 L-39 25 A10 10 0 0 0-25 39 L0 14 A24 24 0 0 0 31-17 L15-1 L1-15 Z"
+      fill="#B5D4F4" stroke="#85B7EB" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="-31" cy="31" r="4" fill="#0C447C"/>
+  </g>
 </svg>
